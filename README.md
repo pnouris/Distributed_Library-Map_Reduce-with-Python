@@ -1,7 +1,7 @@
 # Map-reduce-Using-Python
-Distributed and Cloud Computing 
+### Distributed and Cloud Computing 
 
-##Part 1
+## Part 1
 Design  and  implement a distributed data storage system using a remote
 object paradigm which allows employees to perform the following six tasks:
 1. Display all six pieces of information relating to the set of books currently stored.
@@ -12,9 +12,9 @@ object paradigm which allows employees to perform the following six tasks:
 5. Set the status of all books with a specified ISBN to on loan.
 6. Set the status of all books with a specified ISBN to not on loan.
 
-##Part 2
+## Part 2
 Given a CSV file where each line contains a set of numbers,  write a MapReduce 
 program which determines the maximum of all numbers in the file.
 
-##Part 3
+## Part 3
 Given a CSV file where each line contains a set of numbers, write a MapReduce program which determines the mean of all numbers in the file
