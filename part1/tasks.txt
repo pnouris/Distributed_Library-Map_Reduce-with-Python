@@ -1,0 +1,9 @@
+d
+a,John Jones,1234567890,Gymnastics,2017
+a,Philip Nouris,0521795400,Data Science,1999
+a,Christina Vogt,1502880857,Applied Maths,2014
+sy,1995,2010
+d
+si,1502880857
+ol,0521795400
+nol,1234567890
