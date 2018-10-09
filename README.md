@@ -1,5 +1,5 @@
-# Map-reduce-Using-Python
-### Distributed and Cloud Computing 
+# Distributed and Cloud Computing  
+
 
 ## Part 1
 Design  and  implement a distributed data storage system using a remote
